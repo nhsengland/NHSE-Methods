@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## NHSEI Methods Peer Review Group
 
-You can use the [editor on GitHub](https://github.com/nhsengland/NHSEI-Methods-Peer-Review-Group/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### NHS England and NHS Improvement Methods Peer Review Group
 
-### Markdown
+In order to establish appropriate governance of NHS England and NHS Improvement (NHSEI) core methods, a Methods Peer Review Group (PRG) of key stakeholders has been created.  The Group has responsibility for oversight and assuring methods in current and future use and is supported by a dedicated secretariat. 
+Methods accredited by the group need to meet specific criteria and contain details about how they are used, why to use, when and where, who would use them and how, as well as some of their advantages and limitations. It is envisaged that the collated information would form an internal point of reference for data and analyst staff and their learning and/or training.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A FutureNHS workspace [Methods - FutureNHS Collaboration Platform] has been established to host the NHSEI Methods, alongside ongoing communication and roll out of the review framework to raise awareness and increase engagement. The associated code and templates will be available at this dedicated NHSEI methods GitHub profile.
+The NHSEI Methods GitHub profile is primarily a repository for code and templates of those methods in the toolbox and a means to share learning, promote our analytical work, and enable openness and transparency. In addition to that, the space could be used for communication and collaboration with the public aiming to improve our methods and codes by receiving feedback. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Group members and collaborators
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Methods
 
-**Bold** and _Italic_ and `Code` text
+We present a range of methods, including methods for processing and standardising data, and methods for analysing data using various tools and statistical procedures. 
 
-[Link](url) and ![Image](src)
-```
+Each peer-reviewed method has its own repository. Within each repository you can find a ‘readme’ file which will briefly describe the method and outline any associated information relevant to the code or important notices regarding structure of underlying data to which the code should be applied. Within each repository there is also the code itself, which could be in any programming language using any analytical software (e.g. SQL, R, SAS, Python). 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact us
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nhsengland/NHSEI-Methods-Peer-Review-Group/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
