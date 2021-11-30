@@ -9,41 +9,41 @@ The NHSEI Methods GitHub profile is primarily a repository for code and template
 
 ### Group members and collaborators
 
-·        Adrian Pratt
+* Adrian Pratt
 
-·        Andy Weaver
+* Andy Weaver
 
-·        Aslam Atcha
+* Aslam Atcha
 
-·        Bryn Shorney
+* Bryn Shorney
 
-·        Felix Asamoah
+* Felix Asamoah
 
-·        James Hatton
+* James Hatton
 
-·        Jason Pickles
+* Jason Pickles
 
-·        Matt Whitston
+* Matt Whitston
 
-·        Neil Martin
+* Neil Martin
 
-·        Neil Parkinson
+* Neil Parkinson
 
-·        Omnia Abdulrazeg
+* Omnia Abdulrazeg
 
-·        Paris Pariza
+* Paris Pariza
 
-·        Rob Shaw
+* Rob Shaw
 
-·        Sarah Blundell
+* Sarah Blundell
 
-·        Simon Snowden
+* Simon Snowden
 
-·        Sonu Mittal
+* Sonu Mittal
 
-·        Thomas Mason
+* Thomas Mason
 
-·        Victoria Cornelius
+* Victoria Cornelius
 
 
 ### Methods
