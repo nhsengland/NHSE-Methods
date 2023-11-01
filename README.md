@@ -1,9 +1,9 @@
-## NHS England and NHS Improvement Methods
+## NHS England Methods
 
-In order to establish appropriate governance of NHS England and NHS Improvement (NHSEI) core methods, a Methods Peer Review Group (PRG) of key stakeholders has been created.  The Group has responsibility for oversight and assuring methods in current and future use and is supported by a dedicated secretariat. 
+In order to establish appropriate governance of NHS England (NHSE) core methods, a Methods Peer Review Group (PRG) of key stakeholders has been created.  The Group has responsibility for oversight and assuring methods in current and future use and is supported by a dedicated secretariat. 
 Methods accredited by the group need to meet specific criteria and contain details about how they are used, why to use, when and where, who would use them and how, as well as some of their advantages and limitations. It is envisaged that the collated information would form an internal point of reference for data and analyst staff and their learning and/or training.  
 
-A [FutureNHS workspace](https://future.nhs.uk/DataMeth/grouphome) has been established to host the NHSEI Methods, alongside ongoing communication and roll out of the review framework to raise awareness and increase engagement. The associated code and templates will be available at this dedicated NHSEI methods GitHub profile.
+A [FutureNHS workspace](https://future.nhs.uk/DataMeth/grouphome) has been established to host the NHSE Methods, alongside ongoing communication and roll out of the review framework to raise awareness and increase engagement. The associated code and templates will be available at this dedicated NHSEI methods GitHub profile.
 The NHSEI Methods GitHub profile is primarily a repository for code and templates of those methods in the toolbox and a means to share learning, promote our analytical work, and enable openness and transparency. In addition to that, the space could be used for communication and collaboration with the public aiming to improve our methods and codes by receiving feedback. 
 
 
